@@ -1,8 +1,9 @@
 # Graphs
-Das Python Script graphys.py generiert einen Graphen mit einer X und Y Achse mit jeweils 50 in der Länge und Breite. Die Z Achse besitzt einen Wert zwischen 0 und 1, der durch eine Noisemap mit dem Seed 42 und einem "Smoothness" Wert bestimmt wird.
+Das Python Script graphys.py generiert einen Graphen mit einer X- und Y-Achse mit jeweils 50 in der Länge und Breite. Die Z-Achse besitzt einen Wert zwischen 0 und 1, der durch eine Noisemap mit dem Seed 42 und einem "Smoothness" Wert bestimmt wird. 
+Dieser Graph wird für eine versimplifizierte Veranschaulichung benutzt um das Lernen von Sprachmodellen bei künstlicher Intelligenz zu erklären.  
 
 # Installation
-- Benötigt Python 3 (Version 3.13 zur Zeit der Veröffentlichung)
+- Benötigt Python 3 (genutzte Version 3.13 zur Zeit der Veröffentlichung)
 - Python Module (Befehl auszuführen in CMD): `pip install numpy plotly scipy`
 
 # Ausgaben
