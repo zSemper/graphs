@@ -3,11 +3,11 @@ Das Python Script graphys.py generiert einen Graphen mit einer X- und Y-Achse mi
 Dieser Graph wird für eine versimplifizierte Veranschaulichung benutzt um das Lernen von Sprachmodellen bei künstlicher Intelligenz zu erklären.  
 
 # Installation
-- Benötigt Python 3 (genutzte Version 3.13 zur Zeit der Veröffentlichung)
+- Benötigt Python 3 (genutzte Version Python 3.13 zur Zeit der Veröffentlichung)
 - Python Module (Befehl auszuführen in CMD): `pip install numpy plotly scipy`
 
 # Ausgaben
 Im Ordner "output" sind bereits drei Bilder vorhanden mit folgenden "Smoothness" Werten:
-- LLM1.png `smoothness=1.0`
-- LLM2.png `smoothness=4.0`
-- LLM3.png `smoothness=7.0`
+- LLM1.png: `smoothness=1.0`
+- LLM2.png: `smoothness=4.0`
+- LLM3.png: `smoothness=7.0`
